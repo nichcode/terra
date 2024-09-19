@@ -1,0 +1,4 @@
+[submodule "vendor/prime"]
+	path = vendor/prime
+	url = https://github.com/nichcode/prime
+	branch = main
